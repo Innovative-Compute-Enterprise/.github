@@ -1,6 +1,7 @@
-## Simplifying to the basic / Simplificando ate o basico
+## Simplifying to the basic 
 
-### Black-Box
+### Open-Source
+# BLACK-BOX
 
 ## 10/2024
 
