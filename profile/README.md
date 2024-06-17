@@ -1,6 +1,5 @@
 ## Simplifying to the basic 
+# BLACK-BOX
 ## 10/2024
-### BLACK-BOX
-
 
 
